@@ -5,9 +5,9 @@
 ## 🔧 Technologies
 
 - <b>SwiftUI</b><br/>
-I learnt how to build User Interfaces and Navigation Control
+User Interfaces and Navigation Control
 - <b>SwiftData</b><br/>
-I learnt how to build User Interfaces and Navigation Control
+Data Flow and Data Persistence
 
 ## 🦈 Tubarão Team
 
